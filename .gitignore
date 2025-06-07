@@ -14,3 +14,13 @@
 .cxx
 local.properties
 /.idea/.gitignore
+/.idea/AndroidProjectSystem.xml
+/.idea/compiler.xml
+/.idea/deploymentTargetSelector.xml
+/.idea/GitCommitMessageStorage.xml
+/.idea/gradle.xml
+/.idea/migrations.xml
+/.idea/misc.xml
+/.idea/runConfigurations.xml
+/.idea/vcs.xml
+/.kotlin/errors/errors-1749194530441.log

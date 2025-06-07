@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "FlashTextView"
 include(":app")
- 
+include(":flash_text_view")
