@@ -12,9 +12,9 @@
         android:id="@+id/v1"
         android:textColor="#1E23CE"
         android:textSize="20sp"
+        android:background="#B15D5D"
         android:gravity="center"
         android:layout_marginTop="20dp"
         tools:ignore="HardcodedText" />
-
 
 </LinearLayout>
