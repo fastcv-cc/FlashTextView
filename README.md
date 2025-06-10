@@ -42,3 +42,11 @@ implementation("cc.fastcv:flash-text-view:1.0.0")
 这样，就可以在你的app上看到效果了。
 
 ![](./assets/2025_06_xiaoguotu-b55b75.gif)
+
+
+
+
+
+我拉了个安卓技术讨论群，感兴趣的可以加我，我拉你进群
+
+<img src="./assets/image-20250610153910261.png" alt="image-20250610153910261" style="zoom:50%;" />
